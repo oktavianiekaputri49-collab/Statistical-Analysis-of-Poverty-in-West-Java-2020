@@ -1,0 +1,59 @@
+📊 Statistical Analysis of Poverty in West Java, 2020
+Overview:
+This project presents a statistical analysis of poverty data across regencies and cities in West Java Province in 2020 using official data published by Statistics Indonesia (BPS). The study aims to explore poverty conditions, measure the distribution of poor populations, and examine variations in poverty levels among regions through descriptive statistical methods.
+The analysis provides insights into regional socioeconomic disparities and highlights areas with relatively high and low poverty levels.
+
+Objectives:
+Analyze poverty conditions across regencies and cities in West Java.
+Measure the proportion of poor populations in each region.
+Calculate descriptive statistical measures such as mean and variance.
+Compare poverty levels among regions.
+Interpret statistical findings and socioeconomic patterns.
+
+Dataset
+Source: Statistics Indonesia (BPS) – West Java Province, 2020
+
+The dataset contains:
+Number of poor residents (thousand people)
+Poverty percentage
+Poverty proportion
+Regional statistics for regencies and cities in West Java
+
+Analysis Performed:
+Data Cleaning and Preparation
+Descriptive Statistical Analysis
+Mean Calculation
+Variance (S²) Calculation
+Poverty Proportion Analysis
+Regional Comparison Analysis
+Statistical Interpretation
+Data Visualization using Microsoft Excel
+
+Key Findings:
+The average number of poor residents in West Java in 2020 was 12.84 thousand people.
+The variance (S²) of the dataset was 93.47, indicating noticeable variation among regions.
+Bogor Regency recorded the highest number of poor residents with 35.81 thousand people.
+Banjar City recorded the lowest number of poor residents with 0.68 thousand people.
+The analysis highlights significant differences in poverty levels across regions, reflecting variations in economic development, urbanization, and social conditions.
+
+Tools & Methods:
+Microsoft Excel
+Data Cleaning
+Descriptive Statistics
+Mean Analysis
+Variance Analysis (S²)
+Proportion Analysis
+Data Visualization
+
+Skills Demonstrated:
+Data Analysis
+Statistical Analysis
+Descriptive Statistics
+Data Cleaning
+Data Visualization
+Microsoft Excel
+Statistical Interpretation
+Quantitative Analysis
+Socioeconomic Data Analysis
+
+#PovertyAnalysis #WestJava #IndonesiaData #BPS #OpenData #GovernmentData #SocioeconomicAnalysis #Research #Portfolio #DataScience #QuantitativeAnalysis #PublicData
